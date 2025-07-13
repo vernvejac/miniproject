@@ -1,2 +1,2 @@
 # miniproject
-Frontenf project on Task Management
+Frontend project on Task Management
